@@ -1,0 +1,5830 @@
+{
+ "type": "MarqueeSettings",
+ "version": "3.3.1",
+ "state": {
+  "@vscode-marquee/utils": {
+   "globalScope": true,
+   "modeName": "work",
+   "modes": {
+    "default": {
+     "layouts": {
+      "lg": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 24,
+        "x": 4,
+        "y": 0,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 8,
+        "y": 12,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 8,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 12,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "md": [
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 12,
+        "x": 0,
+        "y": 12,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 5,
+        "y": 12,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 6,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 0,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "sm": [
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 1,
+        "y": 12,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 36,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 12,
+        "x": 0,
+        "y": 48,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 24,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "xs": [
+       {
+        "w": 2,
+        "h": 11,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 11,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 47,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 2,
+        "h": 11,
+        "x": 2,
+        "y": 24,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 35,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "xxs": [
+       {
+        "w": 3,
+        "h": 11,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 13,
+        "x": 0,
+        "y": 73,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 86,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 11,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 23,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ]
+     },
+     "widgets": {
+      "news": true,
+      "github": true,
+      "todo": false,
+      "weather": true,
+      "notes": false,
+      "welcome": true,
+      "snippets": false,
+      "projects": false,
+      "runme": true,
+      "dependencies": false,
+      "markdown": false
+     }
+    },
+    "play": {
+     "layouts": {
+      "sm": [
+       {
+        "w": 3,
+        "h": 11,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 11,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 11,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 11,
+        "x": 3,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "runme"
+       }
+      ],
+      "xs": [
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 37,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 24,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 62,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 11,
+        "x": 0,
+        "y": 13,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 50,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 74,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 86,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 86,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "md": [
+       {
+        "w": 4,
+        "h": 14,
+        "x": 5,
+        "y": 12,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 14,
+        "x": 0,
+        "y": 12,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 5,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "lg": [
+       {
+        "w": 6,
+        "h": 14,
+        "x": 6,
+        "y": 14,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 14,
+        "x": 0,
+        "y": 14,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 14,
+        "x": 4,
+        "y": 29,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 14,
+        "x": 6,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 15,
+        "x": 6,
+        "y": 0,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 14,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 29,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 41,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 41,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "xxs": [
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 37,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 24,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 62,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 11,
+        "x": 0,
+        "y": 13,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 50,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 74,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 86,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 86,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ]
+     },
+     "widgets": {
+      "news": true,
+      "github": true,
+      "todo": false,
+      "weather": true,
+      "notes": false,
+      "welcome": true,
+      "snippets": false,
+      "projects": false,
+      "runme": false
+     },
+     "icon": {
+      "id": "beach_with_umbrella",
+      "name": "Beach with Umbrella",
+      "short_names": [
+       "beach_with_umbrella"
+      ],
+      "colons": ":beach_with_umbrella:",
+      "unified": "1f3d6-fe0f",
+      "native": "🏖️"
+     }
+    },
+    "work": {
+     "layouts": {
+      "sm": [
+       {
+        "w": 3,
+        "h": 11,
+        "x": 3,
+        "y": 84,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 11,
+        "x": 3,
+        "y": 106,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 12,
+        "x": 0,
+        "y": 117,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 13,
+        "x": 0,
+        "y": 129,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 11,
+        "x": 0,
+        "y": 95,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 12,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 24,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 36,
+        "i": "npm-stats",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 48,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 60,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 72,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       }
+      ],
+      "xs": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 60,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 72,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 25,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 84,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 11,
+        "x": 0,
+        "y": 49,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 60,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 37,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 13,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 13,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       }
+      ],
+      "md": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 14,
+        "x": 3,
+        "y": 0,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 9,
+        "h": 13,
+        "x": 0,
+        "y": 28,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 9,
+        "h": 12,
+        "x": 0,
+        "y": 41,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 14,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 14,
+        "x": 0,
+        "y": 14,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 14,
+        "x": 5,
+        "y": 14,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 14,
+        "x": 5,
+        "y": 14,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       }
+      ],
+      "lg": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 28,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 40,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 8,
+        "y": 0,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 52,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 15,
+        "x": 6,
+        "y": 13,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 12,
+        "h": 13,
+        "x": 0,
+        "y": 28,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 15,
+        "x": 0,
+        "y": 13,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 4,
+        "y": 0,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 4,
+        "y": 0,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       }
+      ],
+      "xxs": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 60,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 72,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 25,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 84,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 11,
+        "x": 0,
+        "y": 49,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 60,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 37,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 13,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 13,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       }
+      ]
+     },
+     "widgets": {
+      "news": false,
+      "github": false,
+      "todo": true,
+      "weather": false,
+      "notes": true,
+      "welcome": true,
+      "snippets": true,
+      "projects": true,
+      "dependencies": false,
+      "runme": false
+     },
+     "icon": {
+      "id": "briefcase",
+      "name": "Briefcase",
+      "short_names": [
+       "briefcase"
+      ],
+      "colons": ":briefcase:",
+      "unified": "1f4bc",
+      "native": "💼"
+     }
+    },
+    "project": {
+     "layouts": {
+      "lg": [
+       {
+        "w": 3,
+        "h": 12,
+        "x": 5,
+        "y": 0,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 13,
+        "x": 6,
+        "y": 36,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 13,
+        "x": 0,
+        "y": 36,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 8,
+        "y": 0,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 5,
+        "y": 12,
+        "i": "npm-stats",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 36,
+        "x": 0,
+        "y": 0,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 7,
+        "h": 12,
+        "x": 5,
+        "y": 24,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 8,
+        "y": 12,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "welcome"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       }
+      ],
+      "md": [
+       {
+        "w": 4,
+        "h": 8,
+        "x": 5,
+        "y": 0,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 30,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 13,
+        "x": 6,
+        "y": 30,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 10,
+        "x": 5,
+        "y": 8,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 30,
+        "i": "npm-stats",
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 18,
+        "x": 0,
+        "y": 0,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 12,
+        "x": 0,
+        "y": 18,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 5,
+        "y": 18,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "welcome"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       }
+      ],
+      "sm": [
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 55,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 11,
+        "x": 0,
+        "y": 67,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 13,
+        "x": 0,
+        "y": 42,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 55,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 12,
+        "x": 0,
+        "y": 30,
+        "i": "npm-stats",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 18,
+        "x": 0,
+        "y": 0,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 18,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 18,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "welcome"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       }
+      ],
+      "xs": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 53,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 91,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 78,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 65,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 41,
+        "i": "npm-stats",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 17,
+        "x": 0,
+        "y": 0,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 29,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 17,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "welcome"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       }
+      ],
+      "xxs": [
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 58,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 96,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 13,
+        "x": 0,
+        "y": 83,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 13,
+        "x": 0,
+        "y": 70,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 46,
+        "i": "npm-stats",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 22,
+        "x": 0,
+        "y": 0,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 34,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 22,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "welcome"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       }
+      ]
+     },
+     "widgets": {
+      "news": false,
+      "github": false,
+      "todo": true,
+      "weather": false,
+      "notes": true,
+      "markdown": true,
+      "welcome": false,
+      "snippets": true,
+      "projects": true,
+      "npm-stats": true,
+      "runme": true,
+      "dependencies": true
+     },
+     "icon": {
+      "id": "rocket",
+      "name": "Rocket",
+      "short_names": [
+       "rocket"
+      ],
+      "colon": ":rocket:",
+      "emoticons": [],
+      "unified": "1f680",
+      "skin": null
+     }
+    }
+   }
+  },
+  "@vscode-marquee/gui": {
+   "modeName": "work",
+   "modes": {
+    "default": {
+     "layouts": {
+      "lg": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 24,
+        "x": 4,
+        "y": 0,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 8,
+        "y": 12,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 8,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 12,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "md": [
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 12,
+        "x": 0,
+        "y": 12,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 5,
+        "y": 12,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 6,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 0,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "sm": [
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 1,
+        "y": 12,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 36,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 12,
+        "x": 0,
+        "y": 48,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 24,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "xs": [
+       {
+        "w": 2,
+        "h": 11,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 11,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 47,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 2,
+        "h": 11,
+        "x": 2,
+        "y": 24,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 35,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "xxs": [
+       {
+        "w": 3,
+        "h": 11,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 13,
+        "x": 0,
+        "y": 73,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 86,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 11,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 23,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ]
+     },
+     "widgets": {
+      "news": true,
+      "github": true,
+      "todo": false,
+      "weather": true,
+      "notes": false,
+      "welcome": true,
+      "snippets": false,
+      "projects": false,
+      "runme": true,
+      "dependencies": false,
+      "markdown": false
+     }
+    },
+    "play": {
+     "layouts": {
+      "sm": [
+       {
+        "w": 3,
+        "h": 11,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 11,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 11,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 11,
+        "x": 3,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "todo"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "projects"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "snippets"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "notes"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "runme"
+       }
+      ],
+      "xs": [
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 37,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 24,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 62,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 11,
+        "x": 0,
+        "y": 13,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 50,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 74,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 86,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 86,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "md": [
+       {
+        "w": 4,
+        "h": 14,
+        "x": 5,
+        "y": 12,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 14,
+        "x": 0,
+        "y": 12,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 5,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 0,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "lg": [
+       {
+        "w": 6,
+        "h": 14,
+        "x": 6,
+        "y": 14,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 14,
+        "x": 0,
+        "y": 14,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 14,
+        "x": 4,
+        "y": 29,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 14,
+        "x": 6,
+        "y": 0,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 15,
+        "x": 6,
+        "y": 0,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 14,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 29,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 41,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 41,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ],
+      "xxs": [
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 37,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 24,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 62,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 11,
+        "x": 0,
+        "y": 13,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 50,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 74,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 86,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 86,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       }
+      ]
+     },
+     "widgets": {
+      "news": true,
+      "github": true,
+      "todo": false,
+      "weather": true,
+      "notes": false,
+      "welcome": true,
+      "snippets": false,
+      "projects": false,
+      "runme": false
+     },
+     "icon": {
+      "id": "beach_with_umbrella",
+      "name": "Beach with Umbrella",
+      "short_names": [
+       "beach_with_umbrella"
+      ],
+      "colons": ":beach_with_umbrella:",
+      "unified": "1f3d6-fe0f",
+      "native": "🏖️"
+     }
+    },
+    "work": {
+     "layouts": {
+      "sm": [
+       {
+        "w": 3,
+        "h": 11,
+        "x": 3,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 11,
+        "x": 3,
+        "y": 22,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 12,
+        "x": 0,
+        "y": 33,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 13,
+        "x": 0,
+        "y": 45,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 11,
+        "x": 0,
+        "y": 11,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "dependencies"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "runme"
+       }
+      ],
+      "xs": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 60,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 72,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 25,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 84,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 11,
+        "x": 0,
+        "y": 49,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 60,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 37,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 13,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 13,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       }
+      ],
+      "md": [
+       {
+        "w": 3,
+        "h": 14,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 38,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 50,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 14,
+        "x": 3,
+        "y": 38,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 62,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 14,
+        "x": 5,
+        "y": 52,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 14,
+        "x": 0,
+        "y": 74,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 9,
+        "h": 13,
+        "x": 0,
+        "y": 88,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 101,
+        "i": "npm-stats",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 26,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 113,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 14,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       }
+      ],
+      "lg": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 28,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 40,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 8,
+        "y": 0,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 52,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 15,
+        "x": 6,
+        "y": 13,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 12,
+        "h": 13,
+        "x": 0,
+        "y": 28,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 15,
+        "x": 0,
+        "y": 13,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 4,
+        "y": 0,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 4,
+        "y": 0,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       }
+      ],
+      "xxs": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 60,
+        "i": "news",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 72,
+        "i": "github",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 25,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 84,
+        "i": "weather",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 11,
+        "x": 0,
+        "y": 49,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 60,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 0,
+        "i": "welcome",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 37,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 13,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 13,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "npm-stats"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "markdown"
+       }
+      ]
+     },
+     "widgets": {
+      "news": true,
+      "github": true,
+      "todo": true,
+      "weather": true,
+      "notes": true,
+      "welcome": true,
+      "snippets": true,
+      "projects": true,
+      "dependencies": true,
+      "runme": true,
+      "npm-stats": true,
+      "markdown": true
+     },
+     "icon": {
+      "id": "briefcase",
+      "name": "Briefcase",
+      "short_names": [
+       "briefcase"
+      ],
+      "colons": ":briefcase:",
+      "unified": "1f4bc",
+      "native": "💼"
+     }
+    },
+    "project": {
+     "layouts": {
+      "lg": [
+       {
+        "w": 3,
+        "h": 12,
+        "x": 5,
+        "y": 0,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 13,
+        "x": 6,
+        "y": 36,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 13,
+        "x": 0,
+        "y": 36,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 8,
+        "y": 0,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 5,
+        "y": 12,
+        "i": "npm-stats",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 36,
+        "x": 0,
+        "y": 0,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 7,
+        "h": 12,
+        "x": 5,
+        "y": 24,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 8,
+        "y": 12,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "welcome"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       }
+      ],
+      "md": [
+       {
+        "w": 4,
+        "h": 8,
+        "x": 5,
+        "y": 0,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 30,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 13,
+        "x": 6,
+        "y": 30,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 10,
+        "x": 5,
+        "y": 8,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 30,
+        "i": "npm-stats",
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 18,
+        "x": 0,
+        "y": 0,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 5,
+        "h": 12,
+        "x": 0,
+        "y": 18,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 5,
+        "y": 18,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "welcome"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       }
+      ],
+      "sm": [
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 55,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 11,
+        "x": 0,
+        "y": 67,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 13,
+        "x": 0,
+        "y": 42,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 55,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 12,
+        "x": 0,
+        "y": 30,
+        "i": "npm-stats",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 6,
+        "h": 18,
+        "x": 0,
+        "y": 0,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 18,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 3,
+        "y": 18,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "welcome"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       }
+      ],
+      "xs": [
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 53,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 91,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 78,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 13,
+        "x": 0,
+        "y": 65,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 41,
+        "i": "npm-stats",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 17,
+        "x": 0,
+        "y": 0,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 29,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 4,
+        "h": 12,
+        "x": 0,
+        "y": 17,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "welcome"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       }
+      ],
+      "xxs": [
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 58,
+        "i": "todo",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 96,
+        "i": "projects",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 13,
+        "x": 0,
+        "y": 83,
+        "i": "snippets",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 13,
+        "x": 0,
+        "y": 70,
+        "i": "notes",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 46,
+        "i": "npm-stats",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 22,
+        "x": 0,
+        "y": 0,
+        "i": "markdown",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 34,
+        "i": "dependencies",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "w": 3,
+        "h": 12,
+        "x": 0,
+        "y": 22,
+        "i": "runme",
+        "minW": 3,
+        "minH": 12,
+        "moved": false,
+        "static": false
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "welcome"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "news"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "github"
+       },
+       {
+        "minW": 3,
+        "minH": 12,
+        "static": false,
+        "moved": false,
+        "x": 0,
+        "y": 0,
+        "h": 12,
+        "w": 4,
+        "i": "weather"
+       }
+      ]
+     },
+     "widgets": {
+      "news": false,
+      "github": false,
+      "todo": true,
+      "weather": false,
+      "notes": true,
+      "markdown": true,
+      "welcome": false,
+      "snippets": true,
+      "projects": true,
+      "npm-stats": true,
+      "runme": true,
+      "dependencies": true
+     },
+     "icon": {
+      "id": "rocket",
+      "name": "Rocket",
+      "short_names": [
+       "rocket"
+      ],
+      "colon": ":rocket:",
+      "emoticons": [],
+      "unified": "1f680",
+      "skin": null
+     }
+    }
+   }
+  },
+  "@vscode-marquee/welcome-widget": {
+   "tricks": [
+    {
+     "id": "-OZoQFg2dVygoOQ-guvm",
+     "active": true,
+     "content": "After nearly five years of a strong run, we unfortunately have to sunset Marquee. Thank you for being a loyal user.\n\nWe will post more information about Marquee's sunsetting <a href=\"https://marquee.stateful.com/\" target=\"_blank\">here</a>.\n\n<br/><br/>Thank you so much!<br/>\n- The Marquee Team",
+     "createdAt": 1757521185592,
+     "notify": true,
+     "order": 0,
+     "title": "Sunsetting Marquee, the homescreen for VS Code",
+     "votes": {
+      "upvote": 8
+     }
+    },
+    {
+     "id": "-NXuFoakn0Y8Di-5Be-G",
+     "active": true,
+     "content": "<a href=\"https://runme.dev/spotlight/embed-github-actions\">Learn how</a> to embed specific workflows 💪 inside your existing markdown docs to 🏃‍♀️ streamline your runbooks and gated deploys.",
+     "createdAt": 1686752152043,
+     "notify": true,
+     "order": 1,
+     "title": "Embed GitHub Actions 🤩 in your Docs",
+     "votes": {
+      "upvote": 608
+     }
+    },
+    {
+     "id": "-NApmLEainOWgR42nFKq",
+     "active": true,
+     "content": "The Marquee team is working hard to bring you <a href=\"https://www.stateful.com/blog/turning-your-vs-code-extension-into-a-custom-marquee-widget\" target=\"_blank\">this shiny 👩‍🎤 Spotify widget</a> and we could use your help! Please leave a thumbs up on the <a href=\"https://github.com/ShyykoSerhiy/vscode-spotify/pull/182#issue-1341997417\" target=\"_blank\">pending PR</a> to encourage the maintainers merging it. Thank you 💚!",
+     "createdAt": 1661980992565,
+     "notify": true,
+     "order": 16,
+     "title": "Bring the 🎶 Spotify widget to Marquee",
+     "votes": {
+      "upvote": 578
+     }
+    },
+    {
+     "id": "-MRQu2va0eCaPZnPAtNz",
+     "active": true,
+     "content": "Try out the Marquee's <b>modes</b> to organize your widget 💼 🏖️ groups, <a href=\"https://marquee.activecove.com/blog/a-homescreen-mode-for-every-mood-in-vs-code\">read about it here</a>. 👍👍",
+     "createdAt": 1611080941348,
+     "notify": true,
+     "order": 17,
+     "title": "A mode 💼 🏖️ for every Marquee mood",
+     "votes": {
+      "upvote": 654
+     }
+    },
+    {
+     "id": "-M9_rqlyjW1ajefbWssX",
+     "active": true,
+     "content": "Add <a href=\"https://news.ycombinator.com\">news.ycombinator.com</a> & <a href=\"https://github.com\">github.com</a> to your vscode's trusted domains 🔐 to avoid an extra click when you open links in News & GitHub Trending 💡.",
+     "createdAt": 1591920782521,
+     "order": 29,
+     "title": "Manage Trusted Domains",
+     "votes": {
+      "upvote": 326
+     }
+    }
+   ],
+   "read": [],
+   "liked": [],
+   "error": null
+  },
+  "@vscode-marquee/news-widget": {
+   "news": [
+    {
+     "creator": "MarqueeTeam",
+     "title": "Marquee is sunsetting",
+     "link": "https://marquee.stateful.com/",
+     "pubDate": "Thu, 18 Sep 2025 00:15:55 +0000",
+     "dc:creator": "MarqueeTeam",
+     "comments": "https://marquee.stateful.com/",
+     "content": "\n<p>Article URL: <a href=\"https://marquee.stateful.com/\">https://marquee.stateful.com/</a></p>\n<p>Comments URL: <a href=\"https://marquee.stateful.com/\">https://marquee.stateful.com/</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>\n",
+     "contentSnippet": "Article URL: https://marquee.stateful.com/\nComments URL: https://marquee.stateful.com/\nPoints: 0\n# Comments: 0",
+     "guid": "https://marquee.stateful.com/",
+     "isoDate": "2025-09-18T00:15:55.000Z"
+    }
+   ],
+   "isFetching": false,
+   "channel": "HN Frontpage",
+   "error": null
+  },
+  "@vscode-marquee/projects-widget": {
+   "workspaces": [
+    {
+     "id": "da27e20d-9cd7-5e4e-b574-c20da7b2de4e",
+     "name": "SW",
+     "type": "folder",
+     "path": "/sylwesterwozniak526-cyber/SW"
+    }
+   ],
+   "lastVisited": {
+    "da27e20d-9cd7-5e4e-b574-c20da7b2de4e": 1774702547086
+   },
+   "visitCount": {
+    "da27e20d-9cd7-5e4e-b574-c20da7b2de4e": 4
+   }
+  },
+  "@vscode-marquee/github-widget": {},
+  "@vscode-marquee/weather-widget": {},
+  "@vscode-marquee/todo-widget": {
+   "todos": []
+  },
+  "@vscode-marquee/markdown-widget": {
+   "markdownDocuments": [
+    {
+     "id": "b6d7feed-eb15-546a-ae7d-5a8c4366014d",
+     "path": "/sylwesterwozniak526-cyber/SW/README.md",
+     "name": "README.md",
+     "isRemote": false
+    },
+    {
+     "id": "63f57501-17ea-5b96-b6d2-1aa3d7d463d3",
+     "path": "https://raw.githubusercontent.com/stateful/vscode-marquee/main/CONTRIBUTING.md",
+     "name": "CONTRIBUTING.md",
+     "isRemote": true
+    }
+   ],
+   "markdownDocumentSelected": "b6d7feed-eb15-546a-ae7d-5a8c4366014d",
+   "selectedMarkdownContent": "# Contributing\n\nYou like Marquee and want to help making it better? Awesome! We are working to make this process as easy and transparent as possible. We might be not quite there yet but this guide will help you to ramp you up as a contributor and give you everything you need to make your first contribution. If there is any information missing that prevents you from sending in a pull request, please let us know. We treat these kind of issues like actual bugs.\n\n## Code of Conduct\n\nEveryone who participates in this project, either as a user or a contributor, is obliged to follow the projects [Code of Conduct](https://github.com/stateful/.github/blob/main/CODE_OF_CONDUCT.md). Every violation against it will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.\n\n## Find A Way To Contribute\n\nThe project offers a variety of ways to contribute. If you struggle to find something suited for you, join the Marquee support channel on [Gitter](https://gitter.im/vscode-marquee/community) or [Discord](https://discord.com/channels/878764303052865537/900787619728871484) and reach out to the maintainer there. Don't be shy, they are there to help!\n\nYou can participate by:\n\n- contributing code\n- improving documentation\n- help out folks in our support channels\n- create educational content (blog posts, tutorials, videos, etc.)\n- spread the good word about the project (e.g. via Twitter)\n- create bugs if you discover them while using Marquee\n- make feature requests if you are missing something in the project\n\nThe maintainers of the project try to organize all [issues](https://github.com/stateful/vscode-marquee/issues) in the way that should allow anyone to have enough context to start working on it. If this is not the case please mention it in the issue thread so that either the issue creator or a maintainer can provide more information.\n\n## Contributing Code\n\nIn order to propose changes to the code, please check out the repository:\n\n```sh\ngit clone git@github.com:stateful/vscode-marquee.git\ncd vscode-marquee\n```\n\nand install neccessary dependencies:\n\n```sh\nyarn install\n```\n\nNext, build the project:\n\n```sh\nyarn build:dev\n```\n\nand open up VS Code:\n\n```sh\ncode .\n```\n\nNow, you can start to run the built version when pressing `F5`. Make sure to run `yarn watch` (or `SHIFT + CMD + B`) in one of your terminals so that the project is being rebuild everytime you change a file. To restart the extension you can press `CMD + R` or `Control + R` (like reloading a website in a browser).\n\nIn order to ensure that types are updated and bundle recompiled after making changes, ensure to run the watch task:\n\n```sh\nyarn watch\n```\n\n### Adding a new Core Widget\n\nMarquee maintains its codebase as a monorepo containing various of modules within the `packages` directory:\n\n- `/packages/dialog`: utility package for creating dialogs within the webview\n- `/packages/extension`: code that runs on the extension host\n- `/packages/gui`: core webview application\n- `/packages/utils`: common utility modules\n- `/packages/widget`: common widget components\n- `/packages/wdiget-xxx`: core Marquee widget code\n\nWhen creating a new widget, e.g. a foobar widget, add a new directory within that folder, e.g. `/packages/widget-foobar`, and follow the folder structure as other widget modules. The `package.json` should point to an entry file that exports basic widget information, e.g.:\n\nwidget-foobar sample folder structure\n```\npackages\n...other packages\n└───widget-foobar\n    │   build\n    │   extension\n    │   │   package.json\n    │   src\n    │   │   constants.ts\n    │   │   extension.ts\n    │   │   index.tsx\n    │   │   types.ts\n    │   │   Widget.tsx\n    │   package.json\n    │   tsconfig.json\n```\n\nCreate a `tsconfig.json` file in the widget-foobar root\n```json\n{\n  \"extends\": \"../../tsconfig\",\n  \"compilerOptions\": {\n    \"target\": \"ESNext\",\n    \"module\": \"ESNext\",\n    \"moduleResolution\": \"node\",\n    \"baseUrl\": \".\",\n    \"outDir\": \"./build\",\n    \"rootDir\": \"./src\",\n    \"skipLibCheck\": true\n  },\n  \"include\": [\n    \"src/**/*\",\n    \"../../@types\"\n  ]\n}\n```\n\nCreate a `package.json` in the widget-foobar root\n```json\n{\n  \"name\": \"@vscode-marquee/widget-foobar\",\n  \"description\": \"Marquee Foobar Widget\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"main\": \"./build/index.js\",\n  \"types\": \"./build/index.d.ts\",\n  \"dependencies\": {\n    \"@vscode-marquee/utils\": \"^0.1.0\",\n    \"@vscode-marquee/widget\": \"^0.1.0\"\n  }\n}\n```\n\n\n`packages/widget-foobar/src/index.tsx:`\n\nSetting marquee up with our `Widget.tsx` ui\n```ts\nimport React from 'react'\nimport { FontAwesomeIcon } from '@fortawesome/react-fontawesome'\nimport { faCloudSun } from '@fortawesome/free-solid-svg-icons/faCloudSun'\n\nimport FoobarWidget from './Widget'\n\nexport default {\n  name: 'foobar',\n  icon: <FontAwesomeIcon icon={faCloudSun} />,\n  label: 'Foo Bar',\n  tags: [],\n  description: '...',\n  component: FoobarWidget,\n}\n```\n\nAdd the new package to the workspace list in [`/package.json`](https://github.com/stateful/vscode-marquee/blob/dcd2d832853c3b8be9d65b58e736c7d43cacdaf3/package.json#L48-L62) also adding a new [`watch:foobar`](https://github.com/stateful/vscode-marquee/blob/main/package.json#L3383-L3399) script and import it in [`/packages/gui/src/constants.ts`](https://github.com/stateful/vscode-marquee/blob/main/packages/gui/src/constants.ts#L22-L33) so it is loaded by the webview. A basic `widget component` looks as following:\n\n`packages/widget-foobar/src/Widget.tsx:`\n```ts\nimport React, { useContext } from 'react'\nimport { Grid, Typography } from '@mui/material'\n\nimport wrapper, { Dragger, HidePop, HeaderWrapper, NavIconDropdown } from '@vscode-marquee/widget'\nimport type { MarqueeWidgetProps } from '@vscode-marquee/widget'\n\nconst Foobar = ({ ToggleFullScreen, fullscreenMode, minimizeNavIcon }: MarqueeWidgetProps) => {\n  // ...\n  const NavButtons = () => (\n    <Grid item>\n      <Grid\n        container\n        justifyContent=\"right\"\n        direction={minimizeNavIcon ? 'column-reverse' : 'row'}\n        spacing={1}\n        alignItems=\"center\"\n        padding={minimizeNavIcon ? 0.5 : 0}\n      >\n        <CopyToClipboardButton />\n        <Grid item>\n          <HidePop name=\"markdown\" />\n        </Grid>\n        <Grid item>\n          <ToggleFullScreen />\n        </Grid>\n        {!fullscreenMode &&\n          <Grid item>\n            <Dragger />\n          </Grid>\n        }\n      </Grid>\n    </Grid>\n  )\n\n  return (\n    <>\n      <HeaderWrapper>\n        <Grid item>\n          <Typography variant=\"subtitle1\">Foobar</Typography>\n        </Grid>\n        {minimizeNavIcon ?\n          <PopupState variant='popper' popupId='widget-markdown'>\n            {(popupState) => {\n              return (\n                <NavIconDropdown popupState={popupState}>\n                  <NavButtons />\n                </NavIconDropdown>\n              )}}\n          </PopupState>\n          :\n          <Grid item xs={8}>\n            <NavButtons />\n          </Grid>\n        }\n      </HeaderWrapper>\n      <Grid item xs>\n        <Grid\n          container\n          wrap=\"nowrap\"\n          direction=\"column\"\n          style={{ height: '100%' }}\n        >\n          <Grid item xs style={{ overflow: 'hidden' }}>\n            Hello World\n          </Grid>\n        </Grid>\n      </Grid>\n    </>\n  )\n}\n\nexport default wrapper((props: any) => (\n  <Foobar {...props} />\n), 'foobar')\n```\n\n### Run Code within Extension Host\n\nIf you need to run certain code within the extension host, e.g. if you like fetch data for the widget, create an `extension` folder within the widget directory and point to a file that exports an `activate` method, e.g.:\n\nCreate a `package/widget-foobar/extension/package.json`\n```json\n{\n  \"name\": \"@vscode-marquee/widget-foobar-extension\",\n  \"description\": \"extension logic for Foobar Widget\",\n  \"main\": \"../build/extension.js\",\n  \"module\": \"../build/extension.js\",\n  \"types\": \"../build/extension.d.ts\"\n}\n```\n\nThe `activate` method is called when Marquee as extension is activated. You can use it to iniate an `ExtensionManager` instance that simplifies state and configuration management for the widget, e.g.:\n\n`package/widget-foobar/src/extension.ts`\n```ts\nimport vscode from 'vscode'\n\nimport ExtensionManager from '@vscode-marquee/utils/extension'\n\nimport { DEFAULT_CONFIGURATION, DEFAULT_STATE } from './constants'\nimport type { Configuration, State } from './types'\n\nconst STATE_KEY = 'widgets.foobar'\n\nexport function activate (\n  context: vscode.ExtensionContext,\n  channel: vscode.OutputChannel\n) {\n  const stateManager = new ExtensionManager<State, Configuration>(\n    context,\n    channel,\n    STATE_KEY,\n    DEFAULT_CONFIGURATION,\n    DEFAULT_STATE\n  )\n\n  return {\n    marquee: {\n      disposable: stateManager,\n      defaultState: stateManager.state,\n      defaultConfiguration: stateManager.configuration,\n      setup: stateManager.setBroadcaster.bind(stateManager)\n    }\n  }\n}\n```\n\nLastly import the method within the [`packages/extension/src/stateManager.ts`](https://github.com/stateful/vscode-marquee/blob/main/packages/extension/src/stateManager.ts#L11-L20) so that the `activate` method will be called accordingly and the [`tangle`](https://www.npmjs.com/package/tangle) instance attached to the webview.\n\n\n## Reporting New Issues\n\nWhen [opening a new issue](https://github.com/stateful/vscode-marquee/issues/new/choose), always make sure to fill out the issue template. __This step is very important!__ Not doing so may result in your issue not managed in a timely fashion. Don't take this personally if this happens, and feel free to open a new issue once you've gathered all the information required by the template.\n\n- __One issue, one bug:__ Please report a single bug per issue.\n- __Provide reproduction steps:__ List all the steps necessary to reproduce the issue. The person reading your bug report should be able to follow these steps to reproduce your issue with minimal effort.\n\n### Security Bugs\n\nSee [SECURITY.md](https://github.com/stateful/.github/blob/main/SECURITY.md).\n\n## Release New Version\n\nPackage releases are made using a GitHub workflow. All you need to do is go to the [`Manual NPM Publish`](https://github.com/stateful/vscode-marquee/actions/workflows/release.yml) workflow and trigger a new run. Choose the appropriate version upgrade based on the [Semantic Versioning](https://semver.org/) and the release channel. To help choose the right release type, here are some general guidelines:\n\n- __Breaking Changes__: never do these by yourself! A major release is always a collaborative effort between all TSC members. It requires consensus from all of them.\n- __Minor Release__: minor releases are always required if a new, user focused feature was added to one of the packages. For example, if a command was added to WebdriverIO or if a service provides a new form of integration, a minor version bump would be appropriate. However if an internal package like `@wdio/local-runner` exposes a new interface that is solely used internally, we can consider that as a patch release.\n- __Patch Release__: every time a bug is fixed, documentation (this includes TypeScript definitions) gets updated or existing functionality is improved, we should do a patch release.\n"
+  },
+  "@vscode-marquee/notes-widget": {
+   "notes": [
+    {
+     "title": "S",
+     "body": "<p>SW</p>",
+     "text": "SW\n",
+     "id": "otrdy0km",
+     "archived": false,
+     "createdAt": 1774702499321,
+     "workspaceId": "da27e20d-9cd7-5e4e-b574-c20da7b2de4e"
+    },
+    {
+     "id": "5of12vqv",
+     "archived": false,
+     "createdAt": 1774702493389,
+     "workspaceId": null
+    }
+   ],
+   "noteFilter": "",
+   "noteSelected": "otrdy0km"
+  },
+  "@vscode-marquee/npm-stats-widget": {
+   "stats": {},
+   "isLoading": false,
+   "error": null
+  },
+  "@vscode-marquee/snippets-widget": {
+   "snippets": [
+    {
+     "workspaceId": "da27e20d-9cd7-5e4e-b574-c20da7b2de4e",
+     "title": "New Clipboard Item",
+     "body": "115,119",
+     "archived": false,
+     "createdAt": 1774702031505,
+     "id": "b9399911-33ec-41bd-9d8e-cea5d2d8ce64",
+     "type": 1,
+     "size": 7,
+     "storagePath": "/b9399911-33ec-41bd-9d8e-cea5d2d8ce64/New Clipboard Item",
+     "ctime": 1774702031505,
+     "mtime": 1774702031505
+    }
+   ],
+   "snippetFilter": "SW",
+   "snippetSelected": "b9399911-33ec-41bd-9d8e-cea5d2d8ce64"
+  },
+  "@vscode-marquee/dependencies-widget": {
+   "dependencies": [],
+   "capabilities": {
+    "deleteDependency": false,
+    "explicitNeedsUpgrade": false,
+    "upgradeAllDependencies": false,
+    "upgradeDependency": false
+   },
+   "loading": false,
+   "event": {}
+  },
+  "@vscode-marquee/runme-widget": {
+   "isInstalled": false,
+   "notebooks": [
+    "file:///sylwesterwozniak526-cyber/SW/README.md"
+   ],
+   "uriScheme": "vscode"
+  }
+ },
+ "configuration": {
+  "@vscode-marquee/utils": {
+   "background": "5",
+   "name": "SW",
+   "proxy": "",
+   "fontSize": 5,
+   "colorScheme": {},
+   "launchOnStartup": true,
+   "workspaceLaunch": false
+  },
+  "@vscode-marquee/gui": {
+   "proxy": "",
+   "fontSize": 5,
+   "launchOnStartup": true,
+   "workspaceLaunch": false,
+   "colorScheme": {},
+   "name": "SW",
+   "background": "5"
+  },
+  "@vscode-marquee/welcome-widget": {},
+  "@vscode-marquee/news-widget": {
+   "feeds": {
+    "HN Frontpage": "https://hnrss.stateful.com/frontpage",
+    "HN Best": "https://hnrss.stateful.com/best",
+    "HN Newest": "https://hnrss.stateful.com/newest",
+    "HN Ask": "https://hnrss.stateful.com/ask",
+    "HN Show": "https://hnrss.stateful.com/show",
+    "HN Jobs": "https://hnrss.stateful.com/jobs",
+    "sw": "1"
+   },
+   "updateInterval": 60000
+  },
+  "@vscode-marquee/projects-widget": {
+   "workspaceFilter": "",
+   "workspaceSortOrder": "usage",
+   "openProjectInNewWindow": false
+  },
+  "@vscode-marquee/github-widget": {
+   "since": "Weekly",
+   "language": "",
+   "spoken": "",
+   "trendFilter": ""
+  },
+  "@vscode-marquee/weather-widget": {
+   "city": "",
+   "scale": "Fahrenheit"
+  },
+  "@vscode-marquee/todo-widget": {
+   "todoFilter": "",
+   "hide": false,
+   "showArchived": false,
+   "showBranched": false,
+   "autoDetect": true
+  },
+  "@vscode-marquee/markdown-widget": {
+   "externalMarkdownFiles": [
+    "https://raw.githubusercontent.com/stateful/vscode-marquee/main/CONTRIBUTING.md"
+   ]
+  },
+  "@vscode-marquee/notes-widget": {},
+  "@vscode-marquee/npm-stats-widget": {
+   "packageNames": [],
+   "from": 0,
+   "until": 0
+  },
+  "@vscode-marquee/snippets-widget": {},
+  "@vscode-marquee/dependencies-widget": {
+   "autoRefresh": true,
+   "showUpToDate": true,
+   "jsRegistry": "https://registry.npmjs.com/",
+   "prefersPnpm": false
+  },
+  "@vscode-marquee/runme-widget": {}
+ }
+}
